@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "type": "module",
-  "homepage": "https://username.github.io/frontend-vue",
+  "homepage": "https://mennamb26-droid.github.io/menna_work",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
